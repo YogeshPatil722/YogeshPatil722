@@ -26,7 +26,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    </a href="https://www.r-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/50px-R_logo.svg.png">
+    </a href="https://www.r-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/50px-R_logo.svg">
     <img width="48" height="48"/> </a> 
 
 </p>
@@ -60,8 +60,8 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/yogesh-patil-783053215/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/__yogesh_patil__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "None"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
