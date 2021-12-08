@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://www.yogeshpatilportfolio.unaux.com/#/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://yogeshpatil722.github.io/Yogesh.github.io/#/)**
 
 - 📫 How to reach me **yogeshbpatil722@gmail.com**
 
